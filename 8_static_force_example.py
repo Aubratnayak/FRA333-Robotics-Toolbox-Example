@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as pl
 
 L1 = 1.0
 L2 = 1.0
